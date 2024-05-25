@@ -53,13 +53,13 @@ header h4{
     border-bottom: 1px solid #fff;
 }
 header button{
-    padding: 10px 20px;
-    background-color: #fff;
+    padding: 15px 35px;
+    background-color: #2f0606;
     color:#000;
     border:none;
     margin-bottom: 30px;
     outline:none;
-    font-size: 20px;
+    font-size: 25px;
     font-family: 'Playfair Display', serif;
     cursor: pointer;
 }
