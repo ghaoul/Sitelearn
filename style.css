@@ -37,7 +37,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: url('https:/image/enseignants.jpg');
+    background: url(/image/enseignants.jpg');
     background-size: cover;
     color: #fff;
     padding: 40px;
